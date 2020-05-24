@@ -47,7 +47,7 @@ if __name__ == '__main__':
     v_kmh = 40
     a_kmhs = 0
     d_km = np.inf
-    paused = True
+    paused = False
     objects = set()
 
     clock = pygame.time.Clock()
