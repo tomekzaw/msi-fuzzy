@@ -132,5 +132,3 @@ if __name__ == '__main__':
                     p = max(p-5, 0)
                 elif event.key == pygame.K_KP_MULTIPLY:
                     v_kmh += 10
-
-
